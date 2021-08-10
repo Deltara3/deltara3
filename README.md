@@ -19,4 +19,4 @@
 
 ![My stats for literally no reason](https://github-readme-stats.vercel.app/api?username=Deltara3&theme=vue-dark&show_icons=true)
 
-[![My most used langauges for literally no reason](https://github-readme-stats.vercel.app/api/top-langs/?username=Deltara3&theme=vue-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![My most used languages for literally no reason](https://github-readme-stats.vercel.app/api/top-langs/?username=Deltara3&theme=vue-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
