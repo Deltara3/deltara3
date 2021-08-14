@@ -2,7 +2,6 @@
 
 - I'm the developer of u/risbot on Reddit.
 - I'm the main developer of u/snoocockbot and u/Furrycockbot on Reddit.
-- I developed u/risbot.
 - I'm currently working on a Discord bot named Aux.
 - I use Python
 - That's about it.
