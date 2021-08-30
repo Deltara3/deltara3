@@ -2,7 +2,7 @@
 
 - I'm the developer of u/risbot on Reddit.
 - I'm the main developer of u/snoocockbot and u/Furrycockbot on Reddit.
-- I'm currently working on a Discord bot named Aux.
+- discord.spwn :flushed: :flushed: :flushed: :flushed:
 - I use Python
 - That's about it.
 
