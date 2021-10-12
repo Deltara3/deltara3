@@ -1,9 +1,9 @@
 # About me.
-
+- [CSTM](https://github.com/Deltara3/CSTM)
+- [discord.spwn](https://github.com/Deltara3/discord.spwn) :flushed: :flushed: :flushed: :flushed:
 - [ඞ amogus](https://github.com/Deltara3/amogus)
 - I'm the developer of u/risbot on Reddit.
-- I'm the main developer of u/snoocockbot and u/Furrycockbot on Reddit.
-- discord.spwn :flushed: :flushed: :flushed: :flushed:
+- I'm the main developer of [u/snoocockbot](https://github.com/Deltara3/snoocockbot) and u/Furrycockbot on Reddit.
 - I use Python
 - That's about it.
 
