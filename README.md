@@ -4,7 +4,7 @@
 - [ඞ amogus](https://github.com/Deltara3/amogus)
 - I'm the developer of u/risbot on Reddit.
 - I'm the main developer of [u/snoocockbot](https://github.com/Deltara3/snoocockbot) and u/Furrycockbot on Reddit.
-- I use Python
+- I use [Python](https://github.com/python/cpython), [Swift](https://github.com/apple/swift), and [SPWN](https://github.com/Spu7Nix/SPWN-language).
 - That's about it.
 
 # Who are you?
