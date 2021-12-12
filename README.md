@@ -16,6 +16,7 @@
 
 - You found me by accident.
 - You know about my bots.
+- You are an epic [SPWNer](http://github.com/Spu7Nix/SPWN-Language)
 
 ![My stats for literally no reason](https://github-readme-stats.vercel.app/api?username=Deltara3&theme=vue-dark&show_icons=true&count_private=true)
 
