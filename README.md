@@ -3,7 +3,7 @@
 - [discord.spwn](https://github.com/Deltara3/discord.spwn) :flushed: :flushed: :flushed: :flushed:
 - [ඞ amogus](https://github.com/Deltara3/amogus)
 - I'm the developer of u/risbot on Reddit.
-- I'm the main developer of [u/snoocockbot](https://github.com/Deltara3/snoocockbot) and u/Furrycockbot on Reddit.
+- I'm the main developer of [u/snoocockbot](https://github.com/Deltara3/snoocockbot) on Reddit.
 - I use [Python](https://github.com/python/cpython), [Swift](https://github.com/apple/swift), and [SPWN](https://github.com/Spu7Nix/SPWN-language).
 - That's about it.
 
@@ -16,7 +16,7 @@
 
 - You found me by accident.
 - You know about my bots.
-- You are an epic [SPWNer](http://github.com/Spu7Nix/SPWN-Language)
+- You are an epic [SPWN](http://github.com/Spu7Nix/SPWN-Language)er.
 
 ![My stats for literally no reason](https://github-readme-stats.vercel.app/api?username=Deltara3&theme=vue-dark&show_icons=true&count_private=true)
 
