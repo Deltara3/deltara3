@@ -9,12 +9,10 @@
 - That's about it.
 
 # Who are you?
-
 - A human.
 - Also, read about me.
 
 # Why am I here?
-
 - You found me by accident.
 - You know about my bots.
 - You are an epic [SPWN](http://github.com/Spu7Nix/SPWN-Language)er.
